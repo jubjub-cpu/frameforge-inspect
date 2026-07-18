@@ -1,0 +1,12 @@
+{
+  "name": "frameforge-inspect",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fixtures": "powershell -ExecutionPolicy Bypass -File tools/generate-fixtures.ps1",
+    "test:logic": "node tests/analysis.test.mjs",
+    "test:browser": "node tests/browser-smoke.mjs",
+    "serve": "node tools/static-server.mjs"
+  }
+}

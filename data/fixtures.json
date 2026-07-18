@@ -1,0 +1,29 @@
+{
+  "notice": "All fixture images and delivery requirements are fictional and generated for this local browser demonstration.",
+  "fixtures": [
+    {
+      "id": "balanced-launch",
+      "name": "Balanced launch still",
+      "file": "assets/fixtures/balanced-launch.png",
+      "channel": "Campaign landing page",
+      "requirement": "Preserve upper-right text space and retain detail in the dark product surface.",
+      "expected": "review"
+    },
+    {
+      "id": "blown-highlights",
+      "name": "Overexposed studio still",
+      "file": "assets/fixtures/blown-highlights.png",
+      "channel": "Paid social 16:10 crop",
+      "requirement": "Recover highlight detail and keep the offer copy zone readable.",
+      "expected": "revision-required"
+    },
+    {
+      "id": "flat-export",
+      "name": "Flat compressed export",
+      "file": "assets/fixtures/flat-export.png",
+      "channel": "Marketplace gallery",
+      "requirement": "Restore tonal separation and inspect focus before delivery.",
+      "expected": "revision-required"
+    }
+  ]
+}
