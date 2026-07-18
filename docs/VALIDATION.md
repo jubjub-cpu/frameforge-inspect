@@ -22,4 +22,11 @@ Validated on July 17, 2026 before v1.0.0 publication.
 
 ## Deployment verification
 
-Pending GitHub Pages publication. The deployed URL, HTTP checks, repeat browser result, and published commit identity will be added before v1.0.0 is tagged.
+Verified on July 17, 2026 at `https://jubjub-cpu.github.io/frameforge-inspect/`.
+
+- GitHub Pages build: passed.
+- Deployed browser suite: passed with the same Canvas, fixture, overlay, comparison, local-upload, human-decision, export, keyboard, and recovery checks as local.
+- Deployed browser health: zero console errors and zero failed normal requests.
+- Public page and PNG fixture: HTTP 200.
+- Published page title: `FrameForge Inspect | Local Image QA`.
+- Published commit identity: author and committer use the GitHub no-reply address.
