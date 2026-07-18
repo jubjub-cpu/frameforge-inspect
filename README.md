@@ -28,9 +28,9 @@ Content QA leads, creators, and small production teams reviewing campaign stills
 - Local file loading uses an in-memory object URL and no upload endpoint.
 - Browser tests exercise fixture selection, analysis, overlay control, comparison, local upload, decision, export, and recovery states.
 
-## AI Boundary
+## Runtime Boundary
 
-The v1.0.0 demo is a deterministic, AI-assisted product prototype. Its transparent heuristics stand in for an explainable computer-vision preprocessing layer; no hosted model is running. It does not identify people, classify sensitive attributes, judge artistic merit, transmit files, publish media, or make a delivery decision.
+The v1.0.0 demo uses transparent deterministic heuristics as an explainable computer-vision preprocessing layer; no hosted model is running. It does not identify people, classify sensitive attributes, judge artistic merit, transmit files, publish media, or make a delivery decision.
 
 ## Architecture
 
@@ -80,7 +80,3 @@ Exact release evidence is recorded in [docs/VALIDATION.md](docs/VALIDATION.md).
 - Heuristics are intentionally narrow and are not a substitute for calibrated color, focus, accessibility, legal, or brand review.
 - Browser Canvas color management and image decoding can differ by platform.
 - v1.0.0 supports still images only and does not persist reports.
-
-## AI-Assisted Development
-
-Product direction, workflow design, threshold design, test scenarios, visual review, and release decisions were directed by Gabe with AI-assisted implementation support. No customer use, production outcome, or traditional engineering employment is claimed.

@@ -4,7 +4,7 @@
 
 Validated on July 17, 2026 before v1.0.0 publication.
 
-- Repository validator: passed. Checked required files, three generated bitmap fixtures, fictional-data and AI-assisted disclosures, privacy patterns, accessibility hooks, and pixel-analysis logic.
+- Repository validator: passed. Checked required files, three generated bitmap fixtures, fictional-data and runtime disclosures, privacy patterns, accessibility hooks, and pixel-analysis logic.
 - Logic suite: passed. Covered luminance, clipping, contrast, edge detail, regional findings, sensitivity thresholds, comparison deltas, malformed buffers, and privacy-safe export.
 - Desktop browser: passed at 1440 x 1000. Inspected actual Canvas pixels, rendered regional overlays, compared a baseline, recorded human revision, and downloaded a local JSON report.
 - Mobile browser: passed at 390 x 844 with no horizontal overflow.

@@ -15,4 +15,4 @@ FrameForge Inspect v1.0.0 delivers a local-first browser image QA workflow for c
 
 ## Scope
 
-Metrics are deterministic heuristics in an AI-assisted prototype. No hosted model, person identification, sensitive-attribute inference, external action, or automatic creative decision is included.
+Metrics are deterministic heuristics in an interactive prototype. No hosted model, person identification, sensitive-attribute inference, external action, or automatic creative decision is included.
